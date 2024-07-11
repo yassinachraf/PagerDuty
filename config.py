@@ -1,5 +1,5 @@
 # Provide your PagerDuty API key here
-PAGERDUTY_API_KEY = 'e+RaPSwcVBW_nXrhz5yA'
+PAGERDUTY_API_KEY = 'your_pagerduty_api_key_here'
 
 # List of possible fields for a service
 SERVICE_FIELDS = [
